@@ -36,7 +36,7 @@ Read ChromeDriver documentation -> https://chromedriver.chromium.org/extensions
 
 _/!\ Chrome error if you add --headless in client attribute_
 
-### For PHP librairy
+### For PHP library
 
 Use symfony/panther -> https://github.com/symfony/panther
 
